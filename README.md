@@ -41,4 +41,6 @@ The Comprehensive Banking Analytics project aims to leverage advanced data analy
 - Visualizations and insights derived from the analysis.
 - A comprehensive report summarizing findings, model performances, and recommendations for the banking institution.
 
+Dataset
+https://drive.google.com/file/d/120MuX4IdSUjIrGPTIbVFpOnDzGa7CixP/view?usp=sharing
 
